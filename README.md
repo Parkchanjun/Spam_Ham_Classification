@@ -26,7 +26,7 @@ Please specify the path to SMSSpamCollection.
 해당 라이브러리를 연구용으로 사용할 경우, 아래 BibTeX 링크를 인용해야 합니다.
 
 ```
-@article,
+@{article,
   author       = {Chanjun Park(박찬준)},
   title        = {기계학습 알고리즘 앙상블 기법을 이용한 Spam/Ham 분류(Spam/Ham Classification using Ensemble Technique of Machine Learning Algorithms )},
   year         = {2018}
