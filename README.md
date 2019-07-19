@@ -23,8 +23,6 @@ Please specify the path to SMSSpamCollection.
 
 ## Cite
 
-해당 라이브러리를 연구용으로 사용할 경우, 아래 논문을 인용해야 합니다.
-
 ```
 @{article,
   author       = {Chanjun Park(박찬준)},
