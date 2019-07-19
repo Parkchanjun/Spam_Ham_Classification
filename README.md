@@ -21,7 +21,7 @@ For more information, please refer to the thesis.
 실행시 주의사항: SMSSpamCollection의 경로를 지정해주세요.
 Please specify the path to SMSSpamCollection.
 
-## 인용(cite)
+## Cite
 
 해당 라이브러리를 연구용으로 사용할 경우, 아래 BibTeX 링크를 인용해야 합니다.
 
